@@ -1,0 +1,3 @@
+Download Link: https://assignmentchef.com/product/solved-solved-smiling-face-function
+<br>
+Write a function that displays a smiling face at a certain place on the screen. The function must be named as below, and it must be able to display the face anywhere on the screen specified by the parameters x and y. You may borrow code from previous assignments if you want, although it is probably better if the face is relatively small so you have room to draw several of them on the screen at once. Then, inside the paint() method, call the function a few times to draw several faces on the screen.
